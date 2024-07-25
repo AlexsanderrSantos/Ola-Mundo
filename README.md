@@ -1,2 +1,2 @@
-# Ola Mundo
- first version 
+# Olá, Mundo!
+    Repósitorio criado durante curso!
